@@ -1,6 +1,6 @@
 # Y2JB Updater
 
-# **THIS BRANCH IS PUBLIC TO PROVIDE THE ELF FIX for the y2jb_updater.py because I can't do a pull request. Once that gets resolved I'll set this back to private. The specific y2jb_updater.py in this repo will let you update without having FTP on a non-jailbroken console if you used an older backup. All Credits to the respective parties for their original work! I just fixed a small bug.**
+# **THIS BRANCH IS PUBLIC TO PROVIDE THE ELF FIX for the y2jb_updater.js because I can't do a pull request. Once that gets resolved I'll set this back to private. The specific y2jb_updater.js in this repo will let you update without having FTP on a non-jailbroken console if you used an older backup. All Credits to the respective parties for their original work! I just fixed a small bug.**
 
 
 
