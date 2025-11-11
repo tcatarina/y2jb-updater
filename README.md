@@ -1,5 +1,10 @@
 # Y2JB Updater
 
+# **THIS BRANCH IS PUBLIC TO PROVIDE THE ELF FIX for the y2jb_updater.py because I can't do a pull request. Once that gets resolved I'll set this back to private. The specific y2jb_updater.py in this repo will let you update without having FTP on a non-jailbroken console. **
+
+
+
+
 This project provides a payload and an HTTP server used for updating the Y2JB files on your PlayStation 5 using a local PC. This should help people that do not want to restore a new backup every time a new update is released.
 
 **Credits:**
