@@ -80,7 +80,7 @@ def main():
     
     socketserver.TCPServer.allow_reuse_address = True
     
-    with socketserver.TCPServer(("", PORT), UpdateHandler) as httpd:
+    with socketserver.ThreadingTCPServer(("", PORT), UpdateHandler) as httpd:
         try:
             httpd.serve_forever()
         except KeyboardInterrupt:
